@@ -26,13 +26,6 @@ Desenvolver soluções tecnológicas eficientes e personalizadas que atendam às
 - **DevOps: Docker, Kubernetes, Jenkins**
 - **Metodologias Ágeis: Scrum, Kanban**
 
-## Projetos em Destaque
-
-### [Sistema de Gestão de Currículos](https://github.com/proativati/gestao-de-curriculos)
-
-Um sistema web otimizado e responsivo para gerenciamento eficiente de currículos, desenvolvido com as melhores práticas de POO e em conformidade com a **ISO 27001** para tratamento automatizado de dados.
-
-
 ## Como Contribuir
 
 Estamos abertos a colaborações! Sinta-se à vontade para:
